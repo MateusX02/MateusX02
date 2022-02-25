@@ -1,5 +1,5 @@
-- 👋 Oi! Eu sou o @MateusX02
-- 👀 Eu gosto de Modding de Friday Night Funkin e mais.
-- 🌱 Eu estou aprendendo a editar arquivos .hx, no caso, lendo os codes do Github e mais.
-- 🐱‍👤 Eu estou fazendo uma engine para Android chamada:X02Engine
+- 👋 Olá! Meu nome é Mateus. 
+- 👀 Atualmente modificando a Source Code do game "Friday Night Funkin" 
+- 🌱 Eu estou aprendendo a programar na Linguagem Haxe, lendo codes do Github e treinando um pouco.
+- 🐱 Muitos repositórios aqui teram erros de build. 
 - (●'◡'●) Tem mais nada aqui....
