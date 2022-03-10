@@ -1,5 +1,5 @@
-- 👋 Olá! Meu nome é Mateus. 
-- 👀 Atualmente modificando a Source Code do game "Friday Night Funkin" 
-- 🌱 Eu estou aprendendo a programar na Linguagem Haxe, lendo codes do Github e treinando um pouco.
-- 🐱 Muitos repositórios aqui teram erros de build. 
-- (●'◡'●) Tem mais nada aqui....
+## Oi! Eu sou o Mateus!
+
+#### REDES SOCIAS
+<a target="blank" href="https://discord.com/channels/926894790912639066/926930778636583004/926930908785832056"><img src="https://raw.githubusercontent.com/Guaxinim5573/Guaxinim5573/master/assets/discord.png"></a>   <a target="blank" 
+
